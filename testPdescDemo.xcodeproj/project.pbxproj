@@ -17,6 +17,7 @@
 		EC2ADDF921105DD5008BE6E3 /* testPdescDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EC2ADDF821105DD5008BE6E3 /* testPdescDemoUITests.m */; };
 		EC52973521115A15003AD566 /* teseView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC52973421115A15003AD566 /* teseView.m */; };
 		EC52973721115B2B003AD566 /* testTableView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = EC52973621115B2B003AD566 /* testTableView.bundle */; };
+		EC52973921116607003AD566 /* XXXKit.podspec in Resources */ = {isa = PBXBuildFile; fileRef = EC52973821116607003AD566 /* XXXKit.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		EC52973321115A15003AD566 /* teseView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = teseView.h; sourceTree = "<group>"; };
 		EC52973421115A15003AD566 /* teseView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = teseView.m; sourceTree = "<group>"; };
 		EC52973621115B2B003AD566 /* testTableView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = testTableView.bundle; sourceTree = "<group>"; };
+		EC52973821116607003AD566 /* XXXKit.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = XXXKit.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 		EC2ADDC821105DD1008BE6E3 = {
 			isa = PBXGroup;
 			children = (
+				EC52973821116607003AD566 /* XXXKit.podspec */,
 				EC529732211159FB003AD566 /* testTableView */,
 				EC2ADDD321105DD2008BE6E3 /* testPdescDemo */,
 				EC2ADDEC21105DD5008BE6E3 /* testPdescDemoTests */,
@@ -251,6 +254,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC52973921116607003AD566 /* XXXKit.podspec in Resources */,
 				EC2ADDE121105DD4008BE6E3 /* LaunchScreen.storyboard in Resources */,
 				EC2ADDDE21105DD4008BE6E3 /* Assets.xcassets in Resources */,
 				EC2ADDDC21105DD2008BE6E3 /* Main.storyboard in Resources */,
